@@ -1,0 +1,6 @@
+USER = 'user'
+PASSWORD = 'password'
+HOST = 'host'
+PORT = 'port'
+TIMEZONE = 'UTC+3'
+TOKEN = ''
